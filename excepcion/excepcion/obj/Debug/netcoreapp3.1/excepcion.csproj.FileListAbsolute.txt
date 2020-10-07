@@ -1,0 +1,13 @@
+C:\Users\borja\source\repos\excepcion\excepcion\bin\Debug\netcoreapp3.1\excepcion.exe
+C:\Users\borja\source\repos\excepcion\excepcion\bin\Debug\netcoreapp3.1\excepcion.deps.json
+C:\Users\borja\source\repos\excepcion\excepcion\bin\Debug\netcoreapp3.1\excepcion.runtimeconfig.json
+C:\Users\borja\source\repos\excepcion\excepcion\bin\Debug\netcoreapp3.1\excepcion.runtimeconfig.dev.json
+C:\Users\borja\source\repos\excepcion\excepcion\bin\Debug\netcoreapp3.1\excepcion.dll
+C:\Users\borja\source\repos\excepcion\excepcion\bin\Debug\netcoreapp3.1\excepcion.pdb
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.csprojAssemblyReference.cache
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.AssemblyInfoInputs.cache
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.AssemblyInfo.cs
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.csproj.CoreCompileInputs.cache
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.dll
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.pdb
+C:\Users\borja\source\repos\excepcion\excepcion\obj\Debug\netcoreapp3.1\excepcion.genruntimeconfig.cache
